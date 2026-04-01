@@ -1,0 +1,10 @@
+# Free Tools
+
+## Traditional
+- Nmap, Metasploit, Burp Suite, BloodHound, John the Ripper
+
+## AI Security
+- ART, Garak, PyRIT, BlackIce, CleverHans, Foolbox
+
+## Cloud
+- Azure Free Trial, AWS Free Tier

@@ -1,0 +1,10 @@
+# Phase 2 Resources
+
+## Courses
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- [TryHackMe Jr. Pentester](https://tryhackme.com/path/outline/jrpenetrationtester)
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+
+## Tools
+- BloodHound, Mimikatz, Caldera
+- ART (Adversarial Robustness Toolbox), CleverHans

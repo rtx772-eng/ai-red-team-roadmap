@@ -1,0 +1,6 @@
+# Phase 4 Resources
+
+- [DeepLearning.AI](https://www.deeplearning.ai/courses/)
+- [ART (Adversarial Robustness Toolbox)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+- [Google Colab](https://colab.research.google.com/)
+- [8-Week AI Red Teaming Course](https://github.com/Vect0rdecay/ai-red-team-course)

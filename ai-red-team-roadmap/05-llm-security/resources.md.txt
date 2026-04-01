@@ -1,0 +1,7 @@
+# Phase 5 Resources
+
+- [Lakera Gandalf](https://gandalf.lakera.ai/)
+- [Garak](https://github.com/leondz/garak)
+- [Microsoft PyRIT](https://github.com/Azure/PyRIT)
+- [BlackIce](docker pull databricksruntime/blackice:17.3-LTS)
+- [OWASP AI Security Labs](https://github.com/ColeMurray/ai-security-labs)

@@ -1,0 +1,7 @@
+# Free Books
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Windows Internals (old editions)](https://docs.microsoft.com/en-us/sysinternals/)
+- [HackTricks](https://book.hacktricks.xyz/)
+- [GTFOBins](https://gtfobins.github.io/)
+- [LOLBAS](https://lolbas-project.github.io/)

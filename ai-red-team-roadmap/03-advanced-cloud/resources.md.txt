@@ -1,0 +1,7 @@
+# Phase 3 Resources
+
+- [Altered Security Red Labs](https://redlabs.enterprisesecurity.io/)
+- [Flaws.cloud](http://flaws.cloud/)
+- [Evilginx](https://github.com/kgretzky/evilginx2)
+- [HackTheBox](https://www.hackthebox.com/)
+- [VulnHub](https://www.vulnhub.com/)

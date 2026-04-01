@@ -1,0 +1,9 @@
+# Attack Mapping [Attack Name]
+
+## MITRE ATT&CK Mapping
+ Step  Tactic  Technique ID  How Used 
+------------
+ 1  Initial Access  T1566  Phishing email 
+
+## Detection Opportunities
+- [How to detect step 1]

@@ -1,0 +1,17 @@
+# Vulnerability Assessment Report
+
+## Executive Summary
+[Summary for managers]
+
+## Findings Summary
+| Severity | Count |
+|:---|:---|
+| Critical | 0 |
+| High | 0 |
+
+## Detailed Findings
+### Finding 1: [Vulnerability Name]
+- **Severity:** 
+- **Location:** 
+- **Description:** 
+- **Remediation:** 

@@ -1,0 +1,10 @@
+# Free Courses
+
+## Traditional Red Team
+- [TryHackMe](https://tryhackme.com/)
+- [PortSwigger Academy](https://portswigger.net/web-security)
+- [MITRE Caldera](https://caldera.mitre.org/)
+
+## AI Security
+- [DeepLearning.AI](https://www.deeplearning.ai/courses/)
+- [8-Week AI Red Teaming](https://github.com/Vect0rdecay/ai-red-team-course)

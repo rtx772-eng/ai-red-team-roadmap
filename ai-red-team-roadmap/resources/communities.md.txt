@@ -1,0 +1,6 @@
+# Communities
+
+- [Reddit r/redteam](https://www.reddit.com/r/redteam/)
+- [TryHackMe Discord](https://discord.gg/tryhackme)
+- [HackTheBox Discord](https://discord.gg/hackthebox)
+- [TCM Security Discord](https://discord.gg/tcm)
